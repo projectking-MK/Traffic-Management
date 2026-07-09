@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic Management System",
+  "description": "A professional government-grade command-and-control traffic management dashboard monitoring congestion across Tamil Nadu with AI forecasting, emergency corridors, and telemetry overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
